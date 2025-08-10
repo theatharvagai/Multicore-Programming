@@ -2,6 +2,8 @@
 
 ![Parallel Core Programming](https://img.shields.io/badge/🧠%20Parallel%20Programming-blue?style=for-the-badge) ![OpenMP Constructs](https://img.shields.io/badge/⚙️%20OpenMP%20Constructs-success?style=for-the-badge)
 
+---
+
 ## 📌 Project Overview
 
 I practiced basics of multicore programming using OpenMP
